@@ -1,5 +1,5 @@
 #Parties commentées faites par moi
-
+#Source du code vient de: Mauricio Emilio Gomez
 
 from Pyax12_python3 import Ax12
 from Nextion_python3 import Nextion
